@@ -1,0 +1,4 @@
+#Sun Jul 07 17:46:22 IST 2019
+base.0=/home/tanvi/AndroidStudioProjects/PhotoApp/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
